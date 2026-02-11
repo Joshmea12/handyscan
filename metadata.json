@@ -1,0 +1,8 @@
+{
+  "name": "HandyScan AI",
+  "description": "An AI-powered DIY assistant that helps you complete home projects with step-by-step guidance and real-time support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
